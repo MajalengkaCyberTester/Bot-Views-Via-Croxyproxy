@@ -1,5 +1,5 @@
 
-# 📺 Trafix YouTube View Bot via CroxyProxy
+# 📺 Trafix View Bot via CroxyProxy
 
 Skrip otomatisasi Python untuk meningkatkan tampilan video YouTube dengan menggunakan **Playwright** dan proxy dari **CroxyProxy**. Proses dijalankan dalam mode multi-threading dan menampilkan status real-time setiap thread di terminal dengan bantuan library **Rich**.
 
@@ -20,8 +20,8 @@ Skrip otomatisasi Python untuk meningkatkan tampilan video YouTube dengan menggu
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/trafix-croxyproxy-bot.git
-cd trafix-croxyproxy-bot
+git clone https://github.com/MajalengkaCyberTester/Bot-Views-Via-Croxyproxy.git
+cd Bot-Views-Via-Croxyproxy
 ```
 
 ### 2. Buat Virtual Environment (opsional tapi direkomendasikan)
@@ -55,7 +55,7 @@ python views.py <youtube_url> --durasi=<menit> --threads=<jumlah_thread>
 ### ✅ Contoh:
 
 ```bash
-python views.py https://www.youtube.com/watch?v=dQw4w9WgXcQ --durasi=2 --threads=5
+python views.py https://www.youtube.com/watch?v=Tr1BKv48H0s --durasi=2 --threads=5
 ```
 
 > Artinya: Menjalankan 5 thread yang masing-masing akan menonton video selama 2 menit melalui CroxyProxy.
