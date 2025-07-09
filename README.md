@@ -124,13 +124,13 @@ rich>=13.7.0
 
 ---
 
-## 📄 Lisensi
-
-MIT License © 2025 - [Nama Kamu]
-
----
-
 ## 🤝 Kontribusi
 
 Pull request dan saran sangat diterima!  
 Silakan fork, perbaiki, dan ajukan PR.
+
+---
+
+## ❤️ Donasi
+
+https://saweria.co/RizkiAlamR
